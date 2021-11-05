@@ -15,7 +15,7 @@
 ## File big transfer
 - [WeTransfer](https://wetransfer.com)
 
-## Peer-to-perr file transfers
+## Peer-to-peer file transfers
 - [file.pizza](https://file.pizza/)
 
 ## Edit PDF easily 
