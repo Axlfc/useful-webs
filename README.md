@@ -21,6 +21,7 @@
 ## Edit PDF easily 
 - [iLovePDF](https://ilovepdf.com)
 - [PDFescape](https://pdfescape.com)
+- [Pdfunlock](https://dfunlock.com)
 
 ## Recognize text from scanned PDFs
 - [onlineocr](https://onlineocr.net)
@@ -50,6 +51,7 @@
 
 ## Get color ideas, extract colors from photographs
 - [color.adobe](https://color.adobe.com)
+- [DeGraeve](https://degraeve.com/color-palette/)
 
 ## Internet speed test 
 - [fast](https://fast.com/)
@@ -66,8 +68,15 @@
 ## Search domain names
 - [domains.google](https://domains.google.com)
 
+## Temporal mail
+- [Mailinator](https://mailinator.com)
+
+## Deleting social media accounts
+- [AccountKiller](https://accountKiller.com)
+
 ## Convert files
 - [CloudConvert](https://cloudconvert.com)
+- [Vector Magic](https://vectormagic.com/)
 
 ## Icons
 - [iconfinder](https://icofinder.com)
@@ -88,3 +97,4 @@
 
 ## Create Amazon price watches and get email alerts when the prices drop.
 - [CamelCamelCamel](camelcamelcamel.com)
+
