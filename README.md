@@ -75,6 +75,9 @@
 - [flaticon](https://flaticon.com)
 - [WhatTheFont](https://myfonts.com/WhatTheFont/)
 
+## Copy characters
+- [copychar](https://copychar.cc/)
+
 ## Fonts
 - [open source fonts google](https://fonts.google.com)
 - [fontstruct](https://fontstruct.com/)
