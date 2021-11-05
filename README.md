@@ -32,7 +32,12 @@
 - [AlternativeTo](https://alternativeto.net/)
 
 ## Check for username availability in different platforms
-- [Namechk](namechk.com)
+- [Namechk](https://namechk.com)
 
 ## Convert files
-- [CloudConvert](cloudconvert.com)
+- [CloudConvert](https://cloudconvert.com)
+
+## Icons
+- [iconfinder](https://icofinder.com)
+- [icons8](https://icons8.com)
+- [flaticon](https://flaticon.com)
