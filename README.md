@@ -76,7 +76,7 @@
 - [Vector Magic](https://vectormagic.com/)
 
 ## Icons
-- [iconfinder](https://icofinder.com)
+- [iconfinder](https://iconfinder.com)
 - [icons8](https://icons8.com)
 - [flaticon](https://flaticon.com)
 - [WhatTheFont](https://myfonts.com/WhatTheFont/)
