@@ -33,9 +33,6 @@
 - [Kleki](http://kleki.com)
 - [bubbl.us](https://bubbl.us)
 - [canva](https://canva.com)
-- [flowgram](https://flowgram.com)
-- [adioma](https://adioma.com)
-- [eas.ly](https://eas.ly)
 
 ## Host images
 - [imgur](https://imgur.com)
