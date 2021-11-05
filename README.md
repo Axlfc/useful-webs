@@ -21,7 +21,7 @@
 ## Edit PDF easily 
 - [iLovePDF](https://ilovepdf.com)
 - [PDFescape](https://pdfescape.com)
-- [Pdfunlock](https://dfunlock.com)
+- [Pdfunlock](https://pdfunlock.com)
 
 ## Recognize text from scanned PDFs
 - [onlineocr](https://onlineocr.net)
