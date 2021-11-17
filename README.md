@@ -8,6 +8,8 @@
 - [Privnote](https://privnote.com)
 - [gist.github](https://gist.github.com/)
 
+## Short long urls
+- [tinyurl](https://tinyurl.com)
 
 ## Upload small texts, usually source code examples
 - [Pastebin](https://pastebin.com)
