@@ -10,6 +10,7 @@
 
 ## Short long urls
 - [tinyurl](https://tinyurl.com)
+- [bitly](https://bitly.com/)
 
 ## Upload small texts, usually source code examples
 - [Pastebin](https://pastebin.com)
