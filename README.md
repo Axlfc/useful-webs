@@ -83,6 +83,7 @@
 - [icons8](https://icons8.com)
 - [flaticon](https://flaticon.com)
 - [WhatTheFont](https://myfonts.com/WhatTheFont/)
+- [IconShock](https://iconshock.com/)
 
 ## Copy characters
 - [copychar](https://copychar.cc/)
